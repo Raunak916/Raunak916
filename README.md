@@ -1,5 +1,16 @@
 # 💫 About Me:
-🔭 I'm currently working on:<br>Trying to fix a bug I introduced 3 weeks ago while trying to fix another bug.<br><br>👯 I'm looking to collaborate on:<br>Anything that will finally make my parents understand what I do for a living.<br><br>🤔 I'm looking for help with:<br>Naming variables. It's the hardest part of programming.<br><br>🌱 I'm currently learning:<br>To accept that "it works on my machine" is not a valid excuse.<br><br>💬 Ask me about:<br>why my ChatGPT history is longer than my commit history and my unconditional love for dark mode..<br><br>⚡ Fun fact:<br>I once spent an entire day debugging a problem that was caused by a single misplaced semicolon.
+<b><i>🔭 I'm currently working on:</i></b><br>
+Trying to fix a bug I introduced 3 weeks ago while trying to fix another bug.<br><br>
+<b><i>👯 I'm looking to collaborate on:</i></b><br>
+Anything that will finally make my parents understand what I do for a living.<br><br>
+<b><i>🤔 I'm looking for help with:</i></b><br>
+Naming variables. It's the hardest part of programming.<br><br>
+<b><i>🌱 I'm currently learning:</i></b><br>
+To accept that "it works on my machine" is not a valid excuse.<br><br>
+<b><i>💬 Ask me about:</i></b><br>
+why my ChatGPT history is longer than my commit history and my unconditional love for dark mode..<br><br>
+<b><i>⚡ Fun fact:</i></b><br>
+I once spent an entire day debugging a problem that was caused by a single misplaced semicolon.
 
 <div align='center'>
   
